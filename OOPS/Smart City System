@@ -1,1 +1,7 @@
-
+This project provides a platform that facilitates the management of Government services present in a city.
+Those services include :-
+1. Medical, 
+2. Educational, 
+3. Transport, 
+4. Banking related services.
+This project involves use of OBJECT ORIENTED PROGRAMMING and FILE HANDLING in C++.
